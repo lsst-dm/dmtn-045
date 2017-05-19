@@ -7,9 +7,9 @@
   .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.#####.svg
      :target: http://dx.doi.org/10.5281/zenodo.#####
 
-#####################################
-DMTN-045 Survey of PSF modeling tools
-#####################################
+#########################################
+DMTN-045 PSF Fitting: Literature Overview
+#########################################
 
 Summary of state of the art PSF estimation tools and their suitability for the LSST alert pipeline.
 

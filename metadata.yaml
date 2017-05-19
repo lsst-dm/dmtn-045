@@ -13,7 +13,7 @@ serial_number: '045'
 doc_id: 'DMTN-045'
 
 # Title of the document, without the series/serial designation
-doc_title: 'Survey of PSF modeling tools'
+doc_title: 'PSF Fitting: Literature Overview'
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
